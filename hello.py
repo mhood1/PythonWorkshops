@@ -1,2 +1,2 @@
-print("Hello, beautiful world. I missed you.")
+print("Hello, terrible world.\nI missed you.")
 
